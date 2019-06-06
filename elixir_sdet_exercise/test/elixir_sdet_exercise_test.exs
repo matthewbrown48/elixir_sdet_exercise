@@ -135,7 +135,7 @@ defmodule ElixirSdetExerciseTest do
         el_email = find_element(:id, "email")
         el_pass = find_element(:name, "pass")
         el_login = find_element(:id, "loginbutton")
-        fill_field(el_email, "asdfdsTestEmail")
+        fill_field(el_email, "8018362820")
         fill_field(el_pass, "testpassword")
         click(el_login)
       end
