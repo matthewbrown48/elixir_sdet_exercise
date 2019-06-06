@@ -3,3 +3,4 @@ The included chromedriver did not function properly - I updated it on my local m
 assuming that is the version you have set up. 
 
 Screenshots are saved to the default directory, which is in the folder where mix is stored. 
+Additional notes about individual tests are stored in the elixir_sdet_excersice_test folder.
